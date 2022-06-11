@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Petar Petrov
 - 👀 I’m interested in becoming a Python Backend developer
-- 🌱 I’m currently learning Python, Python Web development, DB's
+- 🌱 I’m currently learning Python Web development
 - 💞️ I’m looking to collaborate on novice projcets which will help me gain knowledge and xperience
 - 📫 How to reach me angrifff93@gmail.com
 
